@@ -1,0 +1,15 @@
+artifact_uri: /mnt/c/Users/shatakshee.trive/Downloads/Assignments/Assignment3.2/3.2.1/mlruns/289611874415267524/d279f140530f4f6d94159feb36960669/artifacts
+end_time: 1691087378615
+entry_point_name: ''
+experiment_id: '289611874415267524'
+lifecycle_stage: active
+run_id: d279f140530f4f6d94159feb36960669
+run_name: awesome-dolphin-134
+run_uuid: d279f140530f4f6d94159feb36960669
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691087370572
+status: 3
+tags: []
+user_id: shatakshee.trive

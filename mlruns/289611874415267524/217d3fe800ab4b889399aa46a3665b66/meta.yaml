@@ -1,0 +1,15 @@
+artifact_uri: /mnt/c/Users/shatakshee.trive/Downloads/Assignments/Assignment3.2/3.2.1/mlruns/289611874415267524/217d3fe800ab4b889399aa46a3665b66/artifacts
+end_time: 1691087300953
+entry_point_name: ''
+experiment_id: '289611874415267524'
+lifecycle_stage: active
+run_id: 217d3fe800ab4b889399aa46a3665b66
+run_name: incongruous-wren-249
+run_uuid: 217d3fe800ab4b889399aa46a3665b66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691087290110
+status: 3
+tags: []
+user_id: shatakshee.trive
